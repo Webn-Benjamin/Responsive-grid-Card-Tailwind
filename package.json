@@ -1,8 +1,8 @@
 {
-  "homepage": "https://github.com/Webn-Benjamin/Responsive-grid-Card-Tailwind",
   "name": "tailwind",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Webn-Benjamin.github.io/Responsive-grid-Card-Tailwind",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
